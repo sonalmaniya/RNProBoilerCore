@@ -1,2 +1,1 @@
-# RNProBoilerCore 
-# React Native
+# RNProBoilerCore

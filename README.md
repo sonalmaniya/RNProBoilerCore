@@ -27,16 +27,18 @@ RNProBoilerCore is a React Native project boilerplate that provides a solid foun
 
 - **Navigation**: The project includes React Navigation setup with navigators and routing configured.
 
-## Getting Started
 
-- Clone the Repository
+### Prerequisites
+
+- Install `eslint` and `prettier` plugins into your IDE
+- Ensure your machine has the [React Native dependencies installed](https://facebook.github.io/react-native/docs/getting-started)
+
+
+### Getting Started
 
 ```bash
 git clone https://github.com/sonalmaniya/RNProBoilerCore.git
   ```
-
-- Install `eslint` and `prettier` plugins into your IDE
-- Ensure your machine has the [React Native dependencies installed](https://facebook.github.io/react-native/docs/getting-started)
 
 ```bash
 # Install dependencies
@@ -56,3 +58,6 @@ yarn ios
 # Start in the Android Simulator
 yarn android
 ```
+
+### App View
+![Demo](gif/app.gif)

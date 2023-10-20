@@ -17,7 +17,9 @@ const HomeScreen = () => {
         ViewStyles.center,
         {backgroundColor: appTheme.background},
       ]}>
-      <Label labelType="h4">{strings.WELCOME}</Label>
+      <Label labelType="h3" style={{color: appTheme.accent}}>
+        {strings.WELCOME}
+      </Label>
       <Label style={[ViewStyles.mv5, {color: appTheme.primaryFont}]}>
         {strings.SELECTED_LANGUAGE_CODE}:- {language}
       </Label>

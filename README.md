@@ -60,4 +60,5 @@ yarn android
 ```
 
 ### App View
-![Demo](gif/app.gif)
+![App Demo](https://drive.google.com/uc?id=1q0BdkjrqDTMFomg6rKl9V0REdc8ZDG3D)
+

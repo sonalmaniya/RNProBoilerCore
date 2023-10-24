@@ -10,7 +10,7 @@ RNProBoilerCore is a React Native project boilerplate that provides a solid foun
   - `src/config`: Application configs includes Localization, Store, Theme setup.
   - `src/navigation`: Navigation setup.
   - `src/hooks`: Custom hooks.
-  - `src/hooks`: Application Constants.
+  - `src/constants`: Application Constants.
   - `src/core-ui`: Core app things.
   - `src/fixtures`: All temporary/fake data
   - `src/helpers`: Helper functions
